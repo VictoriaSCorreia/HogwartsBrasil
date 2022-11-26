@@ -1,2 +1,2 @@
-# HogwartsBrasil
- Site Fictício 
+# Hogwarts Brasil
+ Site Fictício baseado na saga Harry Potter.
