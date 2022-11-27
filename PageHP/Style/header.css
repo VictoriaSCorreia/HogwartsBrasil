@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Charm&family=Cinzel+Decorative:wght@400;700&family=Cinzel:wght@500&family=EB+Garamond:wght@400;500&family=Josefin+Sans&family=Marcellus+SC&family=Vollkorn:wght@400;500');
+
+.menu{
+    background-color: #411a1a;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+}
+.menu ul li {
+    display: inline-flex;  
+}
+.divisoria{
+    height: 5px;
+    background-color: #240c0c;
+}
+#topicos{
+    display: block;
+    position: relative;
+    padding: 18px 25px;
+    left: 50%;
+    font-size: 16px; font-family:'Marcellus SC', serif;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: #5674b6;
+}
+#topicos:hover, #topicos:focus{
+    background: #993a3a;
+    color: #ffdc91;
+    transition-duration: 0.2s;
+}
+#caixa{
+    position: relative;
+    margin: auto;
+    padding-left: 9px;
+    height: 35px;
+    left: 120px;
+    outline: none;
+    border-color: #ffab3e;
+    border-radius: 5px;
+    background-color: #ffffff; 
+}
+#varinha{
+    position: relative; 
+    right: 200px; top: 5px;
+    font-size: 30px;
+    color: #6d83cc;
+    --fa-animation-duration: 2s; --fa-fade-opacity: 0.1;
+}
+#varinha:hover{
+    color: rgb(255, 212, 133);
+    text-shadow: 1px 1px 3px rgb(255, 157, 45);
+    transition-duration: 0.2s;
+}
+.fundo{
+    background-image: url(/images/Site-background-light_auto_x2.jpg);
+    display: flex;
+    background-position: right 5px;
+    background-size: 90%;
+    background-repeat: no-repeat;
+    filter:saturate(180%) brightness(85%) contrast(120%);
+    top: 0;
+    width: 100%;
+}

@@ -1,0 +1,80 @@
+<i class="fa-solid fa-wand-magic"></i> varinha
+<div><i class="fa-solid fa-wand-magic-sparkles"></i></div> varinha magica
+<i class="fa-solid fa-chevron-down"></i> outra varinha
+<i class="fa-solid fa-bars"></i> barras
+<i class="fa-solid fa-sliders"></i> filtros
+<i class="fa-solid fa-ellipsis-stroke-vertical"></i> tres pontos
+<i class="fa-solid fa-user"></i> user solido
+<i class="fa-regular fa-user"></i> user aberto
+<i class="fa-regular fa-user"></i> procurar
+<i class="fa-solid fa-house"></i> home
+<i class="fa-solid fa-hotel"></i> hotel
+<i class="fa-sólido fa-xmarks-lines"></i> xxx
+<i class="fa-sólido fa-fogo"></i> fogo
+<i class="fa-regular fa-envelope"></i> carta 
+<i class="fa-solid fa-envelope"></i> carta solido
+<i class="fa-regular fa-circle-xmark"></i> x
+<i class="fa-solid fa-circle-xmark"></i> x solido
+<i class="fa-solid fa-pen-nib"></i> caneta
+<i class="fa-solid fa-feather" ></i> pena
+<i class="fa-regular fa-address-card"></i> adress card
+<i class="fa-solid fa-address-card"></i> adress card solido
+<i class="fa-solid fa-circle-user"></i> user circulo solido
+<i class="fa-regular fa-circle-user"></i> user circulo
+<i class="fa-solid fa-list"></i> lista
+<i class="fa-solid fa-book"></i> livro
+<i class="fa-solid fa-ticket"></i> ticket
+<i class="fa-regular fa-compass"></i> compasso
+<i class="fa-solid fa-compass"></i> compasso solido
+<i class="fa-solid fa-compass"></i> compasso solido
+<i class="fa-solid fa-caret-down"></i> ceta pra baixo
+<i class="fa-solid fa-caret-down"></i> check solido
+<i class="fa-regular fa-square-check"></i> check
+<i class="fa-solid fa-dragon"></i>drgão
+<i class="fa-solid fa-suitcase"></i> mala
+<i class="fa-solid fa-hat-wizard"></i> chapeu bruxo
+
+<li>
+    <a href=""id="topicos"><i class="fa-solid fa-house" style="position: relative; font-size: 15px; left: 7px;"></i></a>
+</li>
+
+filter:saturate(70%);
+
+th, td{
+    text-align: left;
+    padding: 8px;
+}   
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-track{
+    background: #f1f1f1;
+    
+}
+::-webkit-scrollbar-thumb{
+    background: #888;
+    
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+<div style="background-color: #acacac; height: 4px;">&nbsp</div>
+background-image: url(../images/hogwarts.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center -250px;;
+
+<i style="color: rgb(131, 101, 47);">"draco dormiens nunquam titillandus"</i><br><br>
+
+Hogwarts participa do <span style="color: rgb(131, 101, 47);">Torneio Tribruxo</span> anual, com o Brasil iniciando suas provas entre 12 de outubro e 
+                    23 de novembro, junto à Argentina, Estados Unidos, México e Canadá.
+
+                    th, td{
+                        text-align: left;
+                        padding: 15px;
+                    }   
+
+                    position:fixed;
+                    
+

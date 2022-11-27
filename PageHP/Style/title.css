@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Charm&family=Cinzel+Decorative:wght@400;700&family=Cinzel:wght@500&family=EB+Garamond:wght@400;500&family=Josefin+Sans&family=Marcellus+SC&family=Vollkorn:wght@400;500');
+
+.maintitulo {
+    position:absolute; 
+    top: 34%;
+    padding-left: 65%;
+    font-size:55px; font-family: 'Cinzel', serif;
+    color: rgb(255, 211, 130);
+    text-shadow: -1px 2px 2px rgb(0, 0, 0), -1px 2px 5px rgb(155, 106, 0), -1px 2px 8px rgb(0, 22, 82);
+    filter: brightness(110%);
+    cursor: default;
+}
+.subtitulo {
+    position:absolute; 
+    top: 32%;
+    padding-left: 86%;
+    font-size: 17px; font-family:'Charm', cursive;
+    letter-spacing: 2px;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 1px #000000, 1px 1px 2px rgb(0, 31, 41);
+    cursor: default;
+}
+.escolademagia {
+    position:absolute; 
+    top: 29%;
+    padding-left: 55%;
+    font-size: 16px; font-family: Cinzel Decorative;
+    color: rgb(255, 202, 87);
+    text-shadow: -1px -1px 1px rgb(0, 0, 0), -3px -3px 7px rgb(1, 0, 68), -1px -1px 8px rgb(196, 127, 0);  
+    cursor: default;
+}
